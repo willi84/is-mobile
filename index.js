@@ -11,5 +11,5 @@ navigator: ${userAgent}<br /><br />
 <b>isIOS:</b> ${isIOS}<br />
 <b>Android:</b> ${isAndroid}
 
-<h3 style="color: red">${isIOS ? 'Apple' : isAndroid ? 'Android' : 'not detectable'}</h3>
+<h3 style="color: red">${isIOS ? 'Apple' : isAndroid ? 'Android' : 'kein Handy erkannt'}</h3>
 `
